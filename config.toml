@@ -1,4 +1,4 @@
-baseURL = "https://sangito.netlify.app/"
+baseURL = "https://aboedhiprasojo.com/"
 title = "Aboedhiprasojo"
 theme = "hugo-coder"
 languageCode = "en"
@@ -120,7 +120,7 @@ url = "https://www.linkedin.com/in/aboedhi-prasojo-14a6401ab/"
 name = "RSS"
 icon = "fa fa-rss"
 weight = 4
-url = "https://myhugosite.com/index.xml"
+url = "http://feeds.feedburner.com/aboedhiprasojo"
 rel = "alternate"
 type = "application/rss+xml"
 
