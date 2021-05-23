@@ -1,7 +1,7 @@
 ---
 title: "Cara Custom Domain Di Netlify"
 date: 2021-05-21T02:49:56+07:00
-draft: true
+draft: false
 type: post
 
 tags: 
