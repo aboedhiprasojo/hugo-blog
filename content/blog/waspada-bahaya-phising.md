@@ -40,9 +40,9 @@ Ada beberapa jenis phising yang wajib diketahui, untuk menambah wawasan Anda sup
 
 	 Ada dua cara yang biasa dilakukan oleh para pelaku untuk melakukan tindakan phising ini, yaitu sebagai berikut.
 
-	 Pelaku mengklaim atau menyamar sebagai perwakilan dari perusahaan ataupun instansi resmi dan akan meminta korbanya untuk memberikan informasi tertentu
+	 - Pelaku mengklaim atau menyamar sebagai perwakilan dari perusahaan ataupun instansi resmi dan akan meminta korbanya untuk memberikan informasi tertentu
 
-	 Pelaku ini akan menyisipkan sebuah situs yang berbahaya untuk di tautan yang nantinya korban tersebut akan mengkliknya
+	 - Pelaku ini akan menyisipkan sebuah situs yang berbahaya untuk di tautan yang nantinya korban tersebut akan mengkliknya
 
 	 Dalam kasus ini sangat sering dilakukan dan sering dijumpai. Mereka juga dapat mencuri informasi dan mengakses akun Anda dengan sangat mudah, mulai dari *social media* bahkan sampai akun Bank milik Anda.
 
