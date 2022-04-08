@@ -1,7 +1,7 @@
 ---
 title: "Sharing File Menggunakan Kabel Lan"
 date: 2022-04-04T22:53:37+07:00
-draft: true
+draft: false
 
 tags: 
     - tutorial
